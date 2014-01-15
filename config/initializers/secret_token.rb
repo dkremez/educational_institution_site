@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-EducationalInstitutionSite::Application.config.secret_key_base = 'cb7243f81021aa78f687542752e90fea0aafd96eb26b4cfaf770491761a08dc30250c06d35d47f37e08cc177f9ead61da0e7b71b6a2241c2b473586b2345e8b9'
+EducationalInstitutionSite::Application.config.secret_key_base = '4c1e687b0a87dbf63370342b7e26b573cdd07c1fce01f46462cf2276bfbe0916970b74a2b306f4e5fe33120455d4693014336d7b1e6d3f2ec9922f9f3e06d488'
