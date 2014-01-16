@@ -1,0 +1,14 @@
+%h1 Listing news
+
+%table
+  %tr
+    %th Title
+    %th Body
+    %th
+    %th
+    %th
+
+  - News.all.each do |news|
+    %tr
+      %td= news.title
+      %td= news.body
